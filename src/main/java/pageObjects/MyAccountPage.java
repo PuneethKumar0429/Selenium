@@ -33,11 +33,5 @@ public class MyAccountPage extends BasePage{
 	public void clickLogout()
 	{
 		lnkLogout.click();
-	}
-	
-	
-	
-	
-	
-	
+	}	
 }
